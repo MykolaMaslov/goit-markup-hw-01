@@ -21,7 +21,7 @@ linear-gradient(0deg, #2196F3, #2196F3);
 
 body{
 color: var(--color-primaty);
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 }
  .header-link {
     color: var(--color-secondary);
